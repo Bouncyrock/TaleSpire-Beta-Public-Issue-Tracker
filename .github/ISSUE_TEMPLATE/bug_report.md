@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: I've found a new way to break TaleSpire \o/
+name: Recent error on opening campaign
+about: Recent error on opening campaign
 title: ''
 labels: ''
 assignees: ''
@@ -8,17 +8,19 @@ assignees: ''
 ---
 
 **Describe the bug**
-Here tell us what you thought was meant to happen and then how TaleSpire vomited on itself
+Error report
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Punch an ogre '...'
-2. Set a chair on fire '....'
-3. Tried to open a door '....'
-4. TaleSpire crashed
+1. Open a campaign
+2. TaleSpire crashed
 
 **Screenshots/Videos/Twitch Clips**
-These are worth their weight in gold!
+Straight after opening Campaign:
+![image](https://user-images.githubusercontent.com/80272078/120721954-c4d82380-c4c6-11eb-8e53-6f5b3af341c9.png)
+
+
+
 
 **Additional context**
 Unburden yourself of thoughts and musings here
