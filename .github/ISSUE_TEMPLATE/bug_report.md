@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+** TALESPIRE BUG REPORTING HAS MOVED **
+
+Please find the new bug tracker here: https://talespire.hellonext.co/b/Bug-Reports
+
+All bugs that have been reported here up will still be addressed, but we will be slowly deprecating this issue tracker in favor of the new one.
+
+---
+
 **Describe the bug**
 Here tell us what you thought was meant to happen and then how TaleSpire vomited on itself
 
